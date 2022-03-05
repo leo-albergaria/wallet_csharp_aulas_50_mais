@@ -1,9 +1,6 @@
-
-
-
-<img src="imagem" align="left" height="150px" width="150px">
-<h1>  🎲 Título </h1>
-<p> Um Breve relato </p>
+<img src="https://user-images.githubusercontent.com/63436406/156861155-6841c012-16a0-46b4-bd22-5e4311d42bbd.png" align="left" height="150px" width="250px">
+<h1>  🎲 Curso de C# </h1>
+<p> Iremos abordar o desenvolvimento de C# utilizando Visual Studio. O material está composto do resultado de desenvolvimento de cadastro simples de pessoa física e pessoa jurídica. Termos procedimentos para inserção em Listas(Arrays) e acesso a banco de dados SQLServer Express.</p>
 <br>
 
 ---
